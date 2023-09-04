@@ -35,7 +35,7 @@ To get started, make sure you have the following prerequisites:
 
    ```shell
    git clone https://github.com/Midofd/Data-Splitter.git
-   cd your-repo
+   cd Data-Splitter
    ```
 
 2. Open a terminal and navigate to the project directory.
